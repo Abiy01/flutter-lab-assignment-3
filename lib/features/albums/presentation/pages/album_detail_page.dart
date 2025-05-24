@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter_album_app/features/albums/domain/models/album.dart';
 import 'package:flutter_album_app/features/albums/data/repositories/album_repository_impl.dart';
